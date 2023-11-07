@@ -1,7 +1,7 @@
 # Animator
 
 ## Aim:
-
+To develop a animator using unity with C# prgram and move the animator.
 ## Algorithm:
 ### Step 1: Download 2 crouch idle from maximo 3d. Drag it and drop it in unity asset.
 ### Step 2: Select one crouch and in the inspector choose rig-> Animation type (humaniod) and then click update.
@@ -48,5 +48,10 @@ public class PlayerControoler : MonoBehaviour
 ```
 ## Output:
 ![image](https://github.com/kaviya2839/Animator/assets/120553351/e41fa5f2-c5ee-46a7-8ae3-43cda8bce5be)
+moving
+![image](https://github.com/kaviya2839/Animator/assets/120553351/f33e9ecb-83ea-4ce7-b637-6a5ea2687497)
+
+
 
 ## Result:
+Thus, the animator was successfully developed in unity engine with the C#.
