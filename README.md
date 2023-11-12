@@ -1,4 +1,4 @@
-# Animator
+## EX-06 Animator
 
 ## Aim:
 To develop a animator using unity with C# prgram and move the animator.
